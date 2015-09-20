@@ -1,0 +1,11 @@
+{
+  "name": "ping",
+  "version": "1.0.0",
+  "description": "Ping your Heroku apps so they don't fall asleep.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lia Skalkos <hello@liaskalkos.net>",
+  "license": "ISC"
+}
